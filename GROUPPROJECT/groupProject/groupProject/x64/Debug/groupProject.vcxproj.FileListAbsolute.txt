@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Універ\2 курс\1 семестр\прикладне програмування\group project – копія\group project\groupProject\groupProject\x64\Debug\groupProject.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Універ\2 курс\1 семестр\прикладне програмування\group project – копія\group project\groupProject\groupProject\x64\Debug\groupProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Універ\2 курс\1 семестр\прикладне програмування\group project – копія\group project\groupProject\groupProject\x64\Debug\groupProject.MyForm.resources
+C:\Users\Lenovo\Desktop\Універ\2 курс\1 семестр\прикладне програмування\group project – копія\group project\groupProject\groupProject\x64\Debug\groupProject.vcxproj.GenerateResource.cache
+C:\Users\Rudka Artwm\Desktop\GROUPPROJECT\groupProject\groupProject\x64\Debug\groupProject.vcxproj.AssemblyReference.cache
+C:\Users\Rudka Artwm\Desktop\GROUPPROJECT\groupProject\groupProject\x64\Debug\groupProject.MyForm.resources
+C:\Users\Rudka Artwm\Desktop\GROUPPROJECT\groupProject\groupProject\x64\Debug\groupProject.vcxproj.GenerateResource.cache
